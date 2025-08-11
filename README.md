@@ -1,3 +1,4 @@
 ﻿# Assignment
 
-The Coding Launguage I have used Is Python 
+The Coding Launguage I have used is Python 
+
